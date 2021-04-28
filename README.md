@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="animation_640_knugn3mv.gif"  height="400">
 
 - 👨🏻‍ I’m currently a student
-- 🌱 I’m currently learning typescript and react
+- 🌱 I’m currently learning typescript and react js
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with Improve my skills
 - 💬 Ask me about soft skills
@@ -16,7 +16,7 @@
 
 
 ## Connect with me:
-<img height="32" width="32" src="https://simpleicons.org/icons/twitter.svg" />
+[<img height="32" width="32" src="https://simpleicons.org/icons/twitter.svg" />](https://twitter.com/Harshvish_14)
 
 ## trophy 🏆
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-vish14" alt="harsh-vish14" /></a> </p>
