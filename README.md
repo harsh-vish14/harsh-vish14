@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="animation_640_knugn3mv.gif"  height="400">
 
 - 👨🏻‍ I’m currently a student
-- 🌱 I’m currently learning typescript and react js
+- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/) and [next JS](https://nextjs.org/)
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with Improve my skills
 - 💬 Ask me about soft skills
