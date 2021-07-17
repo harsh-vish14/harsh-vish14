@@ -17,6 +17,7 @@
 
 ## Connect with me:
 [<img height="32" width="32" src="https://simpleicons.org/icons/twitter.svg" />](https://twitter.com/Harshvish_14)
+[<img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/harsh-vish14/)
 
 ## trophy 🏆
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-vish14" alt="harsh-vish14" /></a> </p>
