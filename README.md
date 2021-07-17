@@ -1,6 +1,6 @@
 
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px">, I'm Harshkumar Vishwakarma</h1>
-### <h3 align="center">A fullStack developer in INDIA</h3>
+### <h3 align="center">A Software Engineering 👨‍💻 in INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-vish14&label=Views" alt="iampawan" /> </p>
 
