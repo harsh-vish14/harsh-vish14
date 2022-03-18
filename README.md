@@ -2,6 +2,7 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px">, I'm Harshkumar Vishwakarma</h1>
 ### <h3 align="center">A Software Engineering 👨‍💻 in INDIA</h3>
 <h1 align="center">
+  <a href="https://leetcode.com/harsh-vish14/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" alt="LeetCode" width="40" height="40"/> </a>
   <a href="https://wa.me/919322224994" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/840/PNG/512/Whatsapp_icon-icons.com_66931.png" alt="Whatsapp" width="40" height="40"/> </a>
   <a href="mailto:harshkv9322@gmail.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="Email" width="40" height="40"/> </a>
   <a href="https://www.linkedin.com/in/harsh-vish14/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Twitter" width="40" height="40"/> </a>
