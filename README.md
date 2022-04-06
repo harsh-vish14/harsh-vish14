@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with Improve my skills
 - 💬 Ask me about soft skills
-- 📫 How to reach me: [Twitter](https://twitter.com/Harshvish_14)
+- 📫 How to reach me: [Email](mailto:harshkv9322@gmail.com)
 - ⚡ Fun fact: I always ready to work in project
 
 
